@@ -17,3 +17,11 @@
 
 ---
 
+## Lista qualquer de exemplo 
+
+1. Versinamento
+2. Git e GitHub
+3. Visual Studio Code
+
+   
+
